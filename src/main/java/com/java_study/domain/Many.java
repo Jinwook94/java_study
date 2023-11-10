@@ -7,6 +7,7 @@ import javax.persistence.ManyToOne;
 
 @Entity
 public class Many {
+    // 테스트
 
     @Id
     @GeneratedValue
