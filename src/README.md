@@ -1,3 +1,1 @@
-JPA Mapping
-
-Test
+JPA Mapping Study
